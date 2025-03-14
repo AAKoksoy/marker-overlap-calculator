@@ -12,6 +12,8 @@ The function takes in a df and a list of markers of interest
 - Pandas library
 
 # Sample df
+```python
+
 dfp = pd.DataFrame({
     'CD45': ['Other', 'CD45', 'CD45'],
     'CD31': ['CD31', 'Other', 'CD31'],
