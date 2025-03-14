@@ -1,6 +1,6 @@
 # Marker Overlap Calculator
 
-This function is designed for quality control (QC) in high-plex translational single-cell datasets, such as those obtained from CODEX (Co-Detection by indEXing), IMC (Imaging Mass Cytometry) or Xenium technologies. It specifically evaluates the overlap of markers that are typically considered 'mutually exclusive' within individual cells. This assessment helps in identifying potential issues with marker specificity, staining quality, or data processing algorithms, ensuring the reliability and accuracy of the dataset analysis.
+This function is designed for quality control (QC) in high-plex translational single-cell datasets, such as those obtained from CODEX (Co-Detection by indEXing), IMC (Imaging Mass Cytometry) or other single cell based technologies. It specifically evaluates the overlap of markers that are typically considered 'mutually exclusive' within individual cells. This assessment helps in identifying potential issues with marker specificity, staining quality, or data processing algorithms, ensuring the reliability and accuracy of the dataset analysis.
 
 ## Overview
 
