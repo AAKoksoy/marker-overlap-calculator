@@ -10,7 +10,7 @@ The function takes in a df and a list of markers of interest
 - Python
 - Pandas library
 
-# Sample df
+## Sample df
 ```python
 
 dfp = pd.DataFrame({
