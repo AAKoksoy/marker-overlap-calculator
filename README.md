@@ -1,6 +1,7 @@
 # marker-overlap-calculator
 
 # Marker Overlap Calculator
+This function is designed for quality control (QC) in high-plex proteomic or transcriptional single-cell datasets, such as those obtained from CODEX (Co-Detection by indEXing) or IMC (Imaging Mass Cytometry) technologies. It specifically evaluates the overlap of markers that are typically considered 'mutually exclusive' within individual cells. This assessment helps in identifying potential issues with marker specificity, staining quality, or data processing algorithms, ensuring the reliability and accuracy of the dataset analysis.
 
 ## Overview
 This script calculates the overlap percentages between various markers in cell data.
