@@ -44,7 +44,7 @@ def calculate_overlaps(df, markers):
     return pd.DataFrame(results)
 
 # Calculate and print the overlaps
-overlap_results = calculate_overlaps(dfp, markers)
+overlap_results = calculate_overlaps(df, markers)
 overlap_results = pd.DataFrame(overlap_results)
 print(overlap_results)
 
