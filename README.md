@@ -20,7 +20,7 @@ pip install pandas
 
 ## Sample df
 ```python
-dfp = pd.DataFrame({
+df = pd.DataFrame({
     'CD45': ['Other', 'CD45', 'CD45'],
     'CD31': ['CD31', 'Other', 'CD31'],
     'CK': ['Other', 'CK', 'Other'],
